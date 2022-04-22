@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a630e82f-f73d-4b81-ae4c-f5b623e59085": {
+      "ProjectGuid": "a630e82f-f73d-4b81-ae4c-f5b623e59085",
+      "DisplayName": "ParallelTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

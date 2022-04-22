@@ -1,0 +1,15 @@
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\net6.0\ParallelTest.exe
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\net6.0\ParallelTest.deps.json
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\net6.0\ParallelTest.runtimeconfig.json
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\net6.0\ParallelTest.dll
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\bin\Debug\net6.0\ParallelTest.pdb
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.csproj.AssemblyReference.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.AssemblyInfoInputs.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.AssemblyInfo.cs
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.csproj.CoreCompileInputs.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.dll
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ref\ParallelTest.dll
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.pdb
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\ParallelTest.genruntimeconfig.cache
+C:\Users\karly\source\repos\ParallelTest\ParallelTest\obj\Debug\net6.0\refint\ParallelTest.dll
